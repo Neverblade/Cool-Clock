@@ -1,4 +1,7 @@
 # Cool-Clock
+
+http://neverblade.github.io/Cool-Clock
+
 Because glancing at the bottom right corner of your screen is too much work.
 
 This is NOT original. This project was a foray into html5's canvas and Github pages, following a tutorial that I found online.
